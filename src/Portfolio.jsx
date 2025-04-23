@@ -1,6 +1,8 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Mail, Linkedin, Globe, Download } from "lucide-react";
+// Example of importing a CSS file
+import './index.css'; // Adjust the path as necessary
 
 export default function Portfolio() {
   return (
